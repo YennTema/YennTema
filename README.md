@@ -28,7 +28,7 @@ Soy psicóloga, profesora y especialista en tecnología educativa, con formació
 - Ella / She / Her
 
 ## 🎭 Fun fact:
-- Me encanta el teatro, el ballet y el cine
+- Me encanta el cine, la danza y el teatro. 
 - Tengo un podcast llamado *Cuida tu rareza*
 
 ---
