@@ -19,7 +19,7 @@ Soy psicóloga, profesora y especialista en tecnología educativa, con formació
 - Experiencia de usuario en videojuegos y gamificación
 
 ## 📬 Cómo contactarme...
-- LinkedIn: [Yennyfer Tellez Marin](https://www.linkedin.com/in/yennyfertellezmarin/)
+- LinkedIn: [Yennyfer Tellez Marin](https://www.linkedin.com/in/yennyfertellezmarin/))
 - Twitter/X: [@Guionate](https://twitter.com/guionate)
 - Instagram: [@yenny_tech](https://www.instagram.com/yenny_tech)
 - GitHub: [YennTema](https://github.com/YennTema) Aquí mismo 😃
