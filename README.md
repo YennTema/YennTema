@@ -1,7 +1,7 @@
 ## 🚀 Sobre mí:
 Soy psicóloga, profesora y especialista en tecnología educativa, con formación interdisciplinaria en Psicología, Educación, Artes Combinadas y Artes Electrónicas. Me apasiona la intersección entre la educación, la tecnología y la inteligencia artificial, explorando tanto sus riesgos como sus posibilidades.
 
-## 👀 Me interesa en...
+## 👀 Me interesa...
 - Pensamiento computacional y educación STEAM: Desarrollo de metodologías activas aplicadas a la enseñanza de programación, robótica y tecnologías emergentes.
 - Inteligencia artificial y aprendizaje automático: Redes neuronales, modelos generativos y aplicaciones en análisis de datos.
 - Experiencia de usuario en videojuegos: Diseño de experiencias inmersivas, análisis de datos de comportamiento y optimización de interacciones.
@@ -27,7 +27,7 @@ Soy psicóloga, profesora y especialista en tecnología educativa, con formació
 ## 🌍 Pronombres:
 - Ella / She / Her
 
-## 🎭 Fun fact:
+## 🎭
 - Me encanta el cine, la danza y el teatro. 
 - Tengo un podcast llamado *Cuida tu rareza*
 
